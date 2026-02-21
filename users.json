@@ -1,0 +1,9 @@
+[  
+  {  
+    "username": "exampleUser",  
+    "email": "example@domain.com",  
+    "coins": 0,  
+    "newsletterPreference": false,  
+    "verificationStatus": false  
+  }  
+]
